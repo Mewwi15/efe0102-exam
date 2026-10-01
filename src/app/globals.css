@@ -1,0 +1,8 @@
+/* ให้ utility ของ Tailwind ชนะสไตล์ของ antd เสมอ (antd ถูกใส่ไว้ใน layer "antd") */
+@layer theme, base, antd, components, utilities;
+
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-thai), ui-sans-serif, system-ui, sans-serif;
+}

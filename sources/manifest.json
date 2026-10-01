@@ -1,0 +1,169 @@
+{
+  "course": {
+    "code": "EFE0102",
+    "title": "การบริหารสถานศึกษาและการประกันคุณภาพการศึกษา",
+    "titleEn": "School Management and Education Quality Assurance",
+    "driveFolder": "https://drive.google.com/drive/folders/1hASfZSzOZS906xYE5GEcwZuNTWKvDDd-",
+    "syllabus": {
+      "file": "syllabus.pdf",
+      "pages": 8,
+      "driveId": "1jikUooebkwHUz1UMonB_hadaHPfWo2nA"
+    }
+  },
+  "exam": {
+    "date": "2026-10-02",
+    "start": "09:00",
+    "end": "11:00",
+    "parts": [
+      {
+        "kind": "mcq",
+        "items": 60,
+        "points": 25
+      },
+      {
+        "kind": "short",
+        "items": 6,
+        "onPaper": true
+      },
+      {
+        "kind": "swot",
+        "items": 15,
+        "onPaper": true
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "ch01",
+      "no": "1",
+      "title": "ปฐมนิเทศ หลักการบริหารการศึกษา",
+      "file": "ch01.pdf",
+      "pages": 33,
+      "period": "ก่อนกลางภาค",
+      "week": "1",
+      "topics": "ปฐมนิเทศ ผลลัพธ์การเรียนรู้ การวัดและประเมินผล หลักการจัดการศึกษาเบื้องต้น หลักการบริหารการศึกษา",
+      "originalName": "1-ปฐมนิเทศ หลักการบริหารการศึกษา.pdf",
+      "driveId": "10oNDyuy0FBnqof-pwvWsNlm6gQxCw3k_"
+    },
+    {
+      "id": "ch02",
+      "no": "2",
+      "title": "ยุทธศาสตร์ทางการศึกษา",
+      "file": "ch02.pdf",
+      "pages": 26,
+      "period": "ก่อนกลางภาค",
+      "week": "2",
+      "topics": "ยุทธศาสตร์ชาติ 20 ปี, แผนพัฒนาเศรษฐกิจและสังคมแห่งชาติ, แผนปฏิรูปประเทศ, แผนการศึกษาแห่งชาติ (พ.ศ. 2560–2579), แผนปฏิบัติราชการประจำปี, นโยบายการศึกษาปัจจุบัน",
+      "originalName": "2-ยุทธศาสตร์ทางการศึกษา.pdf",
+      "driveId": "1fggqgG7Cv4bpbFqwstddwazZ4aIpHp2w"
+    },
+    {
+      "id": "ch03",
+      "no": "3",
+      "title": "การบริหารการศึกษาและสถานศึกษา",
+      "file": "ch03.pdf",
+      "pages": 15,
+      "period": "ก่อนกลางภาค",
+      "week": "3–4",
+      "topics": "โครงสร้างการบริหารการศึกษา, ทฤษฎีการบริหารสถานศึกษาเบื้องต้น, งานพัฒนาคุณภาพสถานศึกษา, ภาวะผู้นำทางการศึกษา, การสื่อสารภายในองค์กร",
+      "originalName": "3-บริหารการศึกษาและสถานศึกษา.pdf",
+      "driveId": "1Ti1clMeV6xlv5AI7J9_ZU-l7Tm3ElG2o"
+    },
+    {
+      "id": "ch04",
+      "no": "4",
+      "title": "QA เบื้องต้น",
+      "file": "ch04.pdf",
+      "pages": 36,
+      "period": "ก่อนกลางภาค",
+      "week": "5",
+      "topics": "การจัดการคุณภาพ, ความหมายและความสำคัญของคุณภาพ, ความหมายการประกันคุณภาพการศึกษา",
+      "originalName": "4-QAเบื้องต้น.pdf",
+      "driveId": "1c1HjGiWDVrHpJYnumlbuvBQR4YNrEJ1I"
+    },
+    {
+      "id": "ch05",
+      "no": "5",
+      "title": "กฎหมายที่เกี่ยวข้อง",
+      "file": "ch05.pdf",
+      "pages": 52,
+      "period": "ก่อนกลางภาค",
+      "week": "7",
+      "topics": "พระราชบัญญัติการศึกษาแห่งชาติ, กฎกระทรวงการประกันคุณภาพการศึกษา พ.ศ. 2561",
+      "originalName": "5-กฏหมายที่เกี่ยวข้อง.pdf",
+      "driveId": "1BSTYn7SqyGOUWHIJFr3kyflXimZ_mD9c"
+    },
+    {
+      "id": "ch06",
+      "no": "6",
+      "title": "มาตรฐานการศึกษา",
+      "file": "ch06.pdf",
+      "pages": 32,
+      "period": "หลังกลางภาค",
+      "week": "9",
+      "topics": "มาตรฐานการศึกษาแต่ละระดับ/ประเภท, การกำหนดมาตรฐานการศึกษาของสถานศึกษา",
+      "originalName": "6-มาตรฐานการศึกษา.pdf",
+      "driveId": "1aMn5Cdvf_xWMcXvz5aq-GXpE30WCQHvh"
+    },
+    {
+      "id": "ch07",
+      "no": "7",
+      "title": "การจัดทำแผนพัฒนาสถานศึกษา",
+      "file": "ch07.pdf",
+      "pages": 69,
+      "period": "หลังกลางภาค",
+      "week": "10, 14",
+      "topics": "แผนพัฒนาคุณภาพสถานศึกษาและแผนปฏิบัติการประจำปี, การวางแผนกลยุทธ์ (วิสัยทัศน์ พันธกิจ SWOT TOWS), การเชื่อมโยงยุทธศาสตร์ นโยบายสู่การปฏิบัติ, แผนพัฒนาตามหลักปรัชญาของเศรษฐกิจพอเพียง",
+      "originalName": "7-การจัดทำแผนพัฒนาสถานศึกษา.pdf",
+      "driveId": "1Hm32y9r0pJ6zwB9UCf6uGGeGA1bnNrj-"
+    },
+    {
+      "id": "ch08",
+      "no": "8",
+      "title": "การติดตาม ตรวจสอบคุณภาพ",
+      "file": "ch08.pdf",
+      "pages": 23,
+      "period": "หลังกลางภาค",
+      "week": "11",
+      "topics": "การติดตาม ตรวจสอบ การดำเนินงานคุณภาพของสถานศึกษา",
+      "originalName": "8-การติดตาม ตรวจสอบ คุณภาพ.pdf",
+      "driveId": "1wTRDHIUqGw_NtxOQVbeXyvPCNRTbFRjF"
+    },
+    {
+      "id": "ch09",
+      "no": "9",
+      "title": "IQA และ SAR",
+      "file": "ch09.pdf",
+      "pages": 46,
+      "period": "หลังกลางภาค",
+      "week": "11",
+      "topics": "การประเมินผลคุณภาพภายในสถานศึกษาและระดับคุณภาพ, รายงานผลการประเมินตนเองของสถานศึกษา (SAR)",
+      "originalName": "9-IQA และ SAR.pdf",
+      "driveId": "1gUJ_2GGEMn0NMcvdtdRAAU3Yruk3IiAf"
+    },
+    {
+      "id": "ch10",
+      "no": "10",
+      "title": "การประเมินคุณภาพภายนอก",
+      "file": "ch10.pdf",
+      "pages": 46,
+      "period": "หลังกลางภาค",
+      "week": "12",
+      "topics": "หลักการ แนวคิด ความหมายและความสำคัญของการประกันคุณภาพภายนอก, รอบการประเมินและการเปลี่ยนแปลงถึงปัจจุบัน, แนวทางการประเมิน, ตัวชี้วัด เกณฑ์การประเมิน, การนำผลการประกันคุณภาพเพื่อพัฒนาการเรียนรู้",
+      "originalName": "10-การประเมินคุณภาพภายนอก.pdf",
+      "driveId": "1LeGd1_f36Xp5ajwaKYfurzXifpIOEoJ7"
+    },
+    {
+      "id": "ch11",
+      "no": "10.1",
+      "title": "สารสนเทศเพื่อการจัดการคุณภาพ",
+      "file": "ch11.pdf",
+      "pages": 33,
+      "period": "หลังกลางภาค",
+      "week": "13",
+      "topics": "การบริหารจัดการระบบสารสนเทศเพื่อการประกันคุณภาพการศึกษา, ระบบฐานข้อมูลเพื่อการประกันคุณภาพ (DMC / EMIS / School MIS)",
+      "originalName": "10-1-สารสนเทศเพื่อการจัดการคุณภาพ.pdf",
+      "driveId": "1diSwUkOBDEhj68jdWgr9HxfCxp6Fcf7F"
+    }
+  ]
+}
