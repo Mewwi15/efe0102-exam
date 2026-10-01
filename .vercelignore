@@ -1,0 +1,6 @@
+/sources/*.pdf
+/sources/text
+/.e2e
+/.next*
+/node_modules
+__pycache__
